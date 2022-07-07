@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Philip Ogunmola
 - 👀 I’m interested in Data science and Machine Learning
 - 💞️ I’m looking to collaborate on data science/ Machine Learning projects
-- 📫 How to reach me vial email philipoogunmola@gmail.com
+- 📫 You can reach me via email philipoogunmola@gmail.com
 
 <!---
 Pheelog/Pheelog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
