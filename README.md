@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Philip Ogunmola
 - 👀 I’m interested in Data science and Machine Learning
-- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on data science/ Machine Learning projects
 - 📫 How to reach me vial email philipoogunmola@gmail.com
 
